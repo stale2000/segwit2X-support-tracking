@@ -78,7 +78,7 @@ To be included in this section, there must be evidence that a company/product is
 
 - [coins.co.th](https://imgur.com/a/fCofx) - "both Coins.co.th and Coins.ph are prepared to handle such changes and to implement this capacity increase" 
 
-### Segwit2X Supporters or Will Follow Hashpower
+### Segwit2X Supporters
 These companies have stated support for segwit2X 
 
 ### Will Follow the Hashpower
