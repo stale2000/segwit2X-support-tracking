@@ -80,6 +80,11 @@ To be included in this section, there must be evidence that a company/product is
 
 ### Segwit2X Supporters or Will Follow Hashpower
 These companies have either stated support for segwit2X or for following the majority of the hashpower.  These two are grouped together because 90% of the hashpower is currently supporting segwit2X.
+- [Bitsewa](https://imgur.com/a/6Nrwx) - "we go by the rule of longest chain with the most hashpower.  If majority successfully works on activating segwit2X, then we fully support that"
+- [Breadwallet](https://www.reddit.com/r/Bitcoin/comments/6sii2c/70_bitcoin_companies_exchange_and_wallets_that/dld38x3/) - "Breadwallet follows the majority of hashing power on the original PoW algorithm, segwit2x or no"
+- [Bitcoin.co.id](https://imgur.com/a/WtB8N) "we have not released any press release yet regarding the Segwit2x activation. We usually follow the majority of the hashpower"
+- [Cubits](https://imgur.com/a/qkeIz)  - "We will update our software and follow the main chain of Bitcoin."
+
 
 #### Emergent Consensus Supporters
 These are the companies that haven't explicitly stated support for segwit2X yet, but HAVE come out in favor of Emergent Consensus, some time in the past.  This means that they are almost certainly supporters of segwit2X as well.  
@@ -87,9 +92,18 @@ These are the companies that haven't explicitly stated support for segwit2X yet,
 
 ### Non-committal
 These companies are aware of segwit2X but have explicity refused to state whether they will support it or will not support it.
+- [Bitt](https://imgur.com/a/t1t3N) - "We are following the landscape closely, but can't give official word at this time."
+- [CoinCorner](https://imgur.com/a/oESKJ) - "we will make an announcement to our clients in due course."
+- [itBit](https://imgur.com/a/5mqR5) - "We haven’t stated any particular policy with regards to Segwit2x."
+- [MaiCoin](https://imgur.com/a/edh4H) - "At this moment we have not decided on whether we will support Segwit2x."
+- [BuyABitcoin](https://imgur.com/a/WysZD) - " It is currently too early to have a solid decision on our stance with this. We are definitely interested in providing our service on the chain that is the most popular to our customer base "
 
 ### No Segwit2X / Bitcoin Core
 The companies are either opposed to segwit2X, or have stated that they will follow Bitcoin Core (which is currently strongly opposed to segwit2X).
+
+- [belgacoin](https://imgur.com/a/5lOuD) "Currently, we follow Bitcoin Core's direction."
+- [FoxBit](https://imgur.com/a/006zV) "We support Bitcoin Core"
+- 
 
 ### Unknown
 These are companies which I do not currently have any evidence of what they support or do not support as it directly relates to segwit2X.  
