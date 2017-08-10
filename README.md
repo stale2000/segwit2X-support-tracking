@@ -79,7 +79,10 @@ To be included in this section, there must be evidence that a company/product is
 - [coins.co.th](https://imgur.com/a/fCofx) - "both Coins.co.th and Coins.ph are prepared to handle such changes and to implement this capacity increase" 
 
 ### Segwit2X Supporters or Will Follow Hashpower
-These companies have either stated support for segwit2X or for following the majority of the hashpower.  These two are grouped together because 90% of the hashpower is currently supporting segwit2X.
+These companies have stated support for segwit2X 
+
+### Will Follow the Hashpower
+These companies have stated that they will follow the majority of the hashpower.  Currently, segwit2X has >90% of the hashpower signalling support, so this means that these companies will implement segwit2X, if nothing changes.
 - [Bitsewa](https://imgur.com/a/6Nrwx) - "we go by the rule of longest chain with the most hashpower.  If majority successfully works on activating segwit2X, then we fully support that"
 - [Breadwallet](https://www.reddit.com/r/Bitcoin/comments/6sii2c/70_bitcoin_companies_exchange_and_wallets_that/dld38x3/) - "Breadwallet follows the majority of hashing power on the original PoW algorithm, segwit2x or no"
 - [Bitcoin.co.id](https://imgur.com/a/WtB8N) "we have not released any press release yet regarding the Segwit2x activation. We usually follow the majority of the hashpower"
