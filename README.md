@@ -101,8 +101,11 @@ These companies are aware of segwit2X but have explicity refused to state whethe
 - [MaiCoin](https://imgur.com/a/edh4H) - "At this moment we have not decided on whether we will support Segwit2x."
 - [BuyABitcoin](https://imgur.com/a/WysZD) - " It is currently too early to have a solid decision on our stance with this. We are definitely interested in providing our service on the chain that is the most popular to our customer base "
 
-### No Segwit2X / Bitcoin Core
-The companies are either opposed to segwit2X, or have stated that they will follow Bitcoin Core (which is currently strongly opposed to segwit2X).
+### No Segwit2X / 
+These companies are opposed to segwit2X
+
+### Bitcoin Core 
+These companies have stated that they will follow Bitcoin Core.  Bitcoin Core is currently strongly opposed to segwit2X.
 
 - [belgacoin](https://imgur.com/a/5lOuD) "Currently, we follow Bitcoin Core's direction."
 - [FoxBit](https://imgur.com/a/006zV) "We support Bitcoin Core"
