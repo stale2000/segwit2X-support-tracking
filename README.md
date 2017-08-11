@@ -75,13 +75,13 @@ No evidence is necessary to be included in this section, beyond the original NYA
 These are companies or products that are owned by NYA participants, and are therefore also segwit2X supporters.
 
 To be included in this section, there must be evidence that a company/product is owned by a NYA participant.
-
+- [BCoin](http://bcoin.io/) - BCoin was created by Purse.io, a NYA signer -"Copyright bcoin.io, Purse, 2017, All Rights Reserved."  
 - [coins.co.th](https://imgur.com/a/fCofx) - "both Coins.co.th and Coins.ph are prepared to handle such changes and to implement this capacity increase" 
 
 ### Segwit2X Supporters
 These companies have stated support for segwit2X 
 - [BitBay polish exchange](https://imgur.com/a/Vcu6c) - "We are supporting SegWit2x and we will update our exchange so it can work accordingly"
--[btc pop](https://blog.btcpop.co/2017/07/19/preparation-for-hard-forks/) - "Therefore, Btcpop will support all competing forms of Bitcoin and grant each option to our users."
+- [btc pop](https://blog.btcpop.co/2017/07/19/preparation-for-hard-forks/) - "Therefore, Btcpop will support all competing forms of Bitcoin and grant each option to our users."
 
 ### Will Follow the Hashpower
 These companies have stated that they will follow the majority of the hashpower.  Currently, segwit2X has >90% of the hashpower signalling support, so this means that these companies will implement segwit2X, if nothing changes.
