@@ -88,6 +88,7 @@ These companies have stated that they will follow the majority of the hashpower.
 - [Breadwallet](https://www.reddit.com/r/Bitcoin/comments/6sii2c/70_bitcoin_companies_exchange_and_wallets_that/dld38x3/) - "Breadwallet follows the majority of hashing power on the original PoW algorithm, segwit2x or no"
 - [Bitcoin.co.id](https://imgur.com/a/WtB8N) "we have not released any press release yet regarding the Segwit2x activation. We usually follow the majority of the hashpower"
 - [Cubits](https://imgur.com/a/qkeIz)  - "We will update our software and follow the main chain of Bitcoin."
+- [Gemini](https://gemini.com/blog/information-related-to-geminis-policy-on-an-upcoming-chain-split/) - "The “BTC” balance and trading activity you see on Gemini will likely reflect the chain with the greater total difficulty."
 
 
 #### Emergent Consensus Supporters
