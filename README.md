@@ -101,6 +101,7 @@ These companies are aware of segwit2X but have explicity refused to state whethe
 - [itBit](https://imgur.com/a/5mqR5) - "We haven’t stated any particular policy with regards to Segwit2x."
 - [MaiCoin](https://imgur.com/a/edh4H) - "At this moment we have not decided on whether we will support Segwit2x."
 - [BuyABitcoin](https://imgur.com/a/WysZD) - " It is currently too early to have a solid decision on our stance with this. We are definitely interested in providing our service on the chain that is the most popular to our customer base "
+- [zebpay](https://imgur.com/a/tC2Gr) - "We are aware of this and will take care as required as the situation develops."
 
 ### No Segwit2X
 These companies are opposed to segwit2X
