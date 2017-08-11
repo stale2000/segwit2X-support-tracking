@@ -89,7 +89,7 @@ These companies have stated that they will follow the majority of the hashpower.
 - [Bitcoin.co.id](https://imgur.com/a/WtB8N) "we have not released any press release yet regarding the Segwit2x activation. We usually follow the majority of the hashpower"
 - [Cubits](https://imgur.com/a/qkeIz)  - "We will update our software and follow the main chain of Bitcoin."
 - [Gemini](https://gemini.com/blog/information-related-to-geminis-policy-on-an-upcoming-chain-split/) - "The “BTC” balance and trading activity you see on Gemini will likely reflect the chain with the greater total difficulty."
-
+- [Kraken](https://blog.kraken.com/post/1150/bitcoin-cash-and-a-critical-alert-for-bitcoin-margin-traders/) - " the vast majority of the Bitcoin community remaining on the chain that activates Segregated Witness and, later on, a possible increase to 2MB blocks."
 
 #### Emergent Consensus Supporters
 These are the companies that haven't explicitly stated support for segwit2X yet, but HAVE come out in favor of Emergent Consensus, some time in the past.  This means that they are almost certainly supporters of segwit2X as well.  
