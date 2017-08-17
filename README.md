@@ -80,6 +80,7 @@ To be included in this section, there must be evidence that a company/product is
 
 ### Segwit2X Supporters
 These companies have stated support for segwit2X 
+- [Airbitz](https://twitter.com/paullinator/status/870701131239903232) - "Count in @Airbitz in support of #Segwit2mb. We'd love to see it pushed forward."
 - [BitBay polish exchange](https://imgur.com/a/Vcu6c) - "We are supporting SegWit2x and we will update our exchange so it can work accordingly"
 - [btc pop](https://blog.btcpop.co/2017/07/19/preparation-for-hard-forks/) - "Therefore, Btcpop will support all competing forms of Bitcoin and grant each option to our users."
 
